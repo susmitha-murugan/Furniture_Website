@@ -3,4 +3,5 @@ Welcome to Furni, a fully responsive furniture website built from scratch using 
 
 ![image](https://github.com/user-attachments/assets/c42f8ce9-ac3f-421d-acc1-7fb91e241119)
 
-Here is the Website Preview: 
+Here is the Website Preview: https://susmitha-murugan.github.io/Furniture_Website/
+
